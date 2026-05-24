@@ -196,13 +196,6 @@ NexusNews was built to demonstrate:
 - **Breadth of features** — 35+ pages showing ability to ship at scale
 
 ---
-
-## Screenshots
-
-> *War Room dark theme with live intelligence feed, threat matrix, and AI analyst chat*
-
----
-
 <div align="center">
 
 Built by [Sameer Ahmed](https://github.com/sameer-sde) · Powered by [Anthropic Claude](https://anthropic.com) · [NewsAPI](https://newsapi.org)
